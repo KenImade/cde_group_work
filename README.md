@@ -7,7 +7,7 @@ Hi guys, this is the repo for Group 26 assignment.
 `git clone https://github.com/KenImade/cde_group_work`
 
 2. Checkout into a new branch, you can call this whatever you like
-`git checkout name-of-new-branch`
+`git checkout -b <name-of-new-branch>`
 
 3. Make changes to the PowerPoint file with the insights you've developed
 
